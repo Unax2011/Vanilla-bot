@@ -1,0 +1,8 @@
+2025-06-23 18:52:16,884 - __main__ - INFO - Iniciando bot de strikes...
+2025-06-23 18:52:16,885 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 18:52:16,885 - discord.client - INFO - logging in using static token
+2025-06-23 18:52:17,532 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 096c700a7ab4ddf167fe9dfdd61e3f63).
+2025-06-23 18:52:52,153 - __main__ - INFO - Iniciando bot de strikes...
+2025-06-23 18:52:52,154 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 18:52:52,154 - discord.client - INFO - logging in using static token
+2025-06-23 18:52:52,884 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f1ab80484559b43f48f65d2f96f3b7da).

@@ -1,0 +1,166 @@
+{
+  "1387193921557364804": {
+    "user_id": 1310994218738515982,
+    "user_name": "Unax",
+    "suggestion": "hola",
+    "status": "accepted",
+    "created_at": "2025-06-24T22:13:24.742404",
+    "channel_id": 1386600540389113916,
+    "reviewed_by": 1310994218738515982,
+    "reviewed_at": "2025-06-24T22:14:10.260821"
+  },
+  "1387195013120917646": {
+    "user_id": 1310994218738515982,
+    "user_name": "Unax",
+    "suggestion": "hola",
+    "status": "accepted",
+    "created_at": "2025-06-24T22:17:44.864875",
+    "channel_id": 1386600540389113916,
+    "reviewed_by": 1310994218738515982,
+    "reviewed_at": "2025-06-24T22:18:10.570464",
+    "moved_to_results": true
+  },
+  "1387195938493173875": {
+    "user_id": 1310994218738515982,
+    "user_name": "Unax",
+    "suggestion": "jajs",
+    "status": "accepted",
+    "created_at": "2025-06-24T22:21:25.677209",
+    "channel_id": 1386600540389113916,
+    "reviewed_by": 1310994218738515982,
+    "reviewed_at": "2025-06-24T22:21:50.046188",
+    "moved_to_results": true,
+    "final_votes": {
+      "upvotes": 1,
+      "downvotes": 0
+    }
+  },
+  "1387196577042534491": {
+    "user_id": 1310994218738515982,
+    "user_name": "Unax",
+    "suggestion": "ss",
+    "status": "pending",
+    "created_at": "2025-06-24T22:23:57.721567",
+    "channel_id": 1386600540389113916
+  },
+  "1387196598215512124": {
+    "user_id": 1310994218738515982,
+    "user_name": "Unax",
+    "suggestion": "dd",
+    "status": "pending",
+    "created_at": "2025-06-24T22:24:02.772036",
+    "channel_id": 1386600540389113916
+  },
+  "1387196620273094686": {
+    "user_id": 1310994218738515982,
+    "user_name": "Unax",
+    "suggestion": "jdjdj",
+    "status": "pending",
+    "created_at": "2025-06-24T22:24:08.331496",
+    "channel_id": 1386600540389113916
+  },
+  "1387196647720878153": {
+    "user_id": 1310994218738515982,
+    "user_name": "Unax",
+    "suggestion": "jdjdjjd",
+    "status": "pending",
+    "created_at": "2025-06-24T22:24:14.670030",
+    "channel_id": 1386600540389113916
+  },
+  "1387196664246177953": {
+    "user_id": 1310994218738515982,
+    "user_name": "Unax",
+    "suggestion": "o",
+    "status": "pending",
+    "created_at": "2025-06-24T22:24:18.615455",
+    "channel_id": 1386600540389113916
+  },
+  "1387197349964546089": {
+    "user_id": 1310994218738515982,
+    "user_name": "Unax",
+    "suggestion": "wd",
+    "status": "pending",
+    "created_at": "2025-06-24T22:27:02.053057",
+    "channel_id": 1386600540389113916
+  },
+  "1387197370831343677": {
+    "user_id": 1310994218738515982,
+    "user_name": "Unax",
+    "suggestion": "udud",
+    "status": "pending",
+    "created_at": "2025-06-24T22:27:07.272624",
+    "channel_id": 1386600540389113916
+  },
+  "1387197390573928530": {
+    "user_id": 1310994218738515982,
+    "user_name": "Unax",
+    "suggestion": "udud",
+    "status": "pending",
+    "created_at": "2025-06-24T22:27:12.020850",
+    "channel_id": 1386600540389113916
+  },
+  "1387197442545422499": {
+    "user_id": 1310994218738515982,
+    "user_name": "Unax",
+    "suggestion": "jejd",
+    "status": "pending",
+    "created_at": "2025-06-24T22:27:24.311555",
+    "channel_id": 1386600540389113916
+  },
+  "1387197515668918484": {
+    "user_id": 1310994218738515982,
+    "user_name": "Unax",
+    "suggestion": "u",
+    "status": "pending",
+    "created_at": "2025-06-24T22:27:41.610716",
+    "channel_id": 1386600540389113916
+  },
+  "1387198179346481315": {
+    "user_id": 1310994218738515982,
+    "user_name": "Unax",
+    "suggestion": "a",
+    "status": "pending",
+    "created_at": "2025-06-24T22:30:19.953162",
+    "channel_id": 1386600540389113916
+  },
+  "1387198200972050532": {
+    "user_id": 1310994218738515982,
+    "user_name": "Unax",
+    "suggestion": "jdjd",
+    "status": "pending",
+    "created_at": "2025-06-24T22:30:25.442904",
+    "channel_id": 1386600540389113916
+  },
+  "1387198222816116827": {
+    "user_id": 1310994218738515982,
+    "user_name": "Unax",
+    "suggestion": "i",
+    "status": "pending",
+    "created_at": "2025-06-24T22:30:30.289790",
+    "channel_id": 1386600540389113916
+  },
+  "1387198241916977162": {
+    "user_id": 1310994218738515982,
+    "user_name": "Unax",
+    "suggestion": "o",
+    "status": "pending",
+    "created_at": "2025-06-24T22:30:34.713280",
+    "channel_id": 1386600540389113916
+  },
+  "1387198262896885780": {
+    "user_id": 1310994218738515982,
+    "user_name": "Unax",
+    "suggestion": "s",
+    "status": "pending",
+    "created_at": "2025-06-24T22:30:39.748452",
+    "channel_id": 1386600540389113916
+  },
+  "1387200420148940893": {
+    "user_id": 1386648800277430484,
+    "user_name": "Unax",
+    "suggestion": "a",
+    "status": "pending",
+    "created_at": "2025-06-24T22:39:13.999429",
+    "channel_id": 1386600540389113916
+  }
+}

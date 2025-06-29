@@ -1,0 +1,1557 @@
+2025-06-23 17:14:33,456 - __main__ - ERROR - BOT_TOKEN not found in environment variables
+2025-06-23 17:14:51,323 - __main__ - ERROR - BOT_TOKEN not found in environment variables
+2025-06-23 17:25:00,779 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 17:25:00,780 - bot - INFO - No existing counter file found, starting fresh
+2025-06-23 17:25:00,781 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 17:25:00,781 - discord.client - INFO - logging in using static token
+2025-06-23 17:25:00,990 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 17:25:00,991 - bot - INFO - No existing counter file found, starting fresh
+2025-06-23 17:25:00,991 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 17:25:00,991 - discord.client - INFO - logging in using static token
+2025-06-23 17:25:01,513 - __main__ - ERROR - Fatal error: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-06-23 17:25:01,513 - bot - WARNING - Bot disconnected from Discord
+2025-06-23 17:25:01,526 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7fbdfc934c20>, 43450.077506755)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7fbdfd2764d0>
+2025-06-23 17:25:01,683 - __main__ - ERROR - Fatal error: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-06-23 17:25:01,683 - bot - WARNING - Bot disconnected from Discord
+2025-06-23 17:25:01,697 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7faf9d9b8c20>, 43450.254648951)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7faf9e2fa4d0>
+2025-06-23 17:25:26,817 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 17:25:26,817 - bot - INFO - No existing counter file found, starting fresh
+2025-06-23 17:25:26,817 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 17:25:26,818 - discord.client - INFO - logging in using static token
+2025-06-23 17:25:26,818 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-06-23 17:25:27,477 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d0b0170090fa37129c6cf3b1f2cd104a).
+2025-06-23 17:25:29,480 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 17:25:29,480 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 17:25:29,481 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 17:25:29,481 - bot - ERROR - Could not find channel with ID: 1386600540389113916
+2025-06-23 17:25:52,340 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 17:25:52,341 - bot - INFO - No existing counter file found, starting fresh
+2025-06-23 17:25:52,342 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 17:25:52,342 - discord.client - INFO - logging in using static token
+2025-06-23 17:25:52,342 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-06-23 17:25:53,088 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8b7398905c14c99231f9273dd491cff1).
+2025-06-23 17:25:55,091 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 17:25:55,091 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 17:25:55,091 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 17:25:55,091 - bot - INFO - Available channels:
+2025-06-23 17:25:55,091 - bot - ERROR - Could not find channel with ID: 1386600540389113916
+2025-06-23 17:25:55,092 - bot - ERROR - Please check: 1) Bot is in the correct server, 2) Channel ID is correct, 3) Bot has permissions
+2025-06-23 17:37:33,614 - bot - WARNING - Bot disconnected from Discord
+2025-06-23 17:37:33,742 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 8b7398905c14c99231f9273dd491cff1.
+2025-06-23 17:37:33,743 - bot - INFO - Bot resumed connection to Discord
+2025-06-23 17:37:40,076 - bot - INFO - Reminder sent to channel: 📬-sugerencias
+2025-06-23 17:37:40,076 - bot - INFO - Sent reminder and reset counter for channel 📬-sugerencias
+2025-06-23 17:38:01,840 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 17:38:01,840 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 17:38:01,841 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 17:38:01,841 - discord.client - INFO - logging in using static token
+2025-06-23 17:38:01,841 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-06-23 17:38:02,632 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c057314dda8310426870aa82f115dd33).
+2025-06-23 17:38:04,635 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 17:38:04,636 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 17:38:04,636 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 17:38:04,636 - bot - INFO - Available channels:
+2025-06-23 17:38:04,636 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 17:38:04,636 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 17:38:04,636 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 17:38:04,636 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 17:38:04,636 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 17:38:04,636 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 17:38:04,637 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 17:38:04,637 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 17:38:04,637 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 17:38:04,637 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 17:38:04,637 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 17:38:04,637 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 17:38:04,637 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 17:38:04,637 - bot - INFO - Successfully found channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 17:38:04,637 - bot - INFO - Bot is ready to monitor messages!
+2025-06-23 17:38:51,377 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 17:38:51,377 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 17:38:51,377 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 17:38:51,377 - discord.client - INFO - logging in using static token
+2025-06-23 17:38:51,377 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-06-23 17:38:51,951 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d69a65e499f526025aca483ff90095cc).
+2025-06-23 17:38:53,956 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 17:38:53,957 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 17:38:53,957 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 17:38:53,957 - bot - INFO - Available channels:
+2025-06-23 17:38:53,957 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 17:38:53,957 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 17:38:53,957 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 17:38:53,957 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 17:38:53,957 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 17:38:53,957 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 17:38:53,957 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 17:38:53,958 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 17:38:53,958 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 17:38:53,958 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 17:38:53,958 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 17:38:53,958 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 17:38:53,958 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 17:38:53,958 - bot - INFO - Successfully found channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 17:38:53,958 - bot - INFO - Bot is ready to monitor messages!
+2025-06-23 17:39:16,635 - bot - INFO - Reminder sent to channel: 📬-sugerencias
+2025-06-23 17:39:16,635 - bot - INFO - Sent reminder and reset counter for channel 📬-sugerencias
+2025-06-23 17:41:32,174 - bot - INFO - Reminder sent to channel: 📬-sugerencias
+2025-06-23 17:41:32,174 - bot - INFO - Sent reminder and reset counter for channel 📬-sugerencias
+2025-06-23 17:49:08,977 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 17:49:08,977 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 17:49:08,977 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 17:49:08,977 - discord.client - INFO - logging in using static token
+2025-06-23 17:49:08,978 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-06-23 17:49:09,721 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9d373a77cebeac6906a8dab280941d0a).
+2025-06-23 17:49:11,725 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 17:49:11,726 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 17:49:11,726 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 17:49:11,726 - bot - INFO - Available channels:
+2025-06-23 17:49:11,726 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 17:49:11,726 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 17:49:11,726 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 17:49:11,726 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 17:49:11,726 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 17:49:11,726 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 17:49:11,727 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 17:49:11,727 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 17:49:11,727 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 17:49:11,727 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 17:49:11,727 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 17:49:11,727 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 17:49:11,727 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 17:49:11,727 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 17:49:11,727 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 17:49:11,727 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 17:52:22,423 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 17:52:22,424 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 17:52:22,424 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 17:52:22,424 - discord.client - INFO - logging in using static token
+2025-06-23 17:52:22,424 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-06-23 17:52:23,195 - __main__ - ERROR - Fatal error: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-06-23 17:52:23,196 - bot - WARNING - Bot disconnected from Discord
+2025-06-23 17:52:23,208 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f870cd2cd70>, 45091.757742118)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f870cd58f90>
+2025-06-23 17:53:02,850 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 17:53:02,850 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 17:53:02,851 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 17:53:02,851 - discord.client - INFO - logging in using static token
+2025-06-23 17:53:02,851 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-06-23 17:53:03,500 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b5fa797c3c4da4ec4a36d7a1289f95d7).
+2025-06-23 17:53:05,504 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 17:53:05,505 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 17:53:05,505 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 17:53:05,505 - bot - INFO - Available channels:
+2025-06-23 17:53:05,505 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 17:53:05,505 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 17:53:05,505 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 17:53:05,505 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 17:53:05,505 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 17:53:05,505 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 17:53:05,505 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 17:53:05,505 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 17:53:05,506 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 17:53:05,506 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 17:53:05,506 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 17:53:05,506 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 17:53:05,506 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 17:53:05,506 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 17:53:05,506 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 17:53:05,506 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 17:53:05,506 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 17:53:05,506 - bot - INFO - Use !test_welcome and !test_goodbye commands to test welcome functionality
+2025-06-23 18:29:10,026 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 18:29:10,028 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 18:29:10,029 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 18:29:10,029 - discord.client - INFO - logging in using static token
+2025-06-23 18:29:10,029 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-06-23 18:29:10,625 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8f61dd5410a2f6d35926e3894882e308).
+2025-06-23 18:29:12,629 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 18:29:12,633 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 18:29:12,634 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 18:29:12,637 - bot - INFO - Available channels:
+2025-06-23 18:29:12,638 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 18:29:12,639 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 18:29:12,641 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 18:29:12,641 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 18:29:12,641 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 18:29:12,641 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 18:29:12,641 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 18:29:12,641 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 18:29:12,641 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 18:29:12,641 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 18:29:12,641 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 18:29:12,641 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 18:29:12,641 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 18:29:12,641 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 18:29:12,641 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 18:29:12,642 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 18:29:12,642 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 18:29:12,642 - bot - INFO - Use !test_welcome and !test_goodbye commands to test welcome functionality
+2025-06-23 18:29:17,413 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 18:29:17,414 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 18:29:17,414 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 18:29:17,414 - discord.client - INFO - logging in using static token
+2025-06-23 18:29:18,037 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8eb4d93c0c01498c9a70f6b32e9988b1).
+2025-06-23 18:29:20,049 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 18:29:20,050 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 18:29:20,052 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 18:29:20,054 - bot - INFO - Available channels:
+2025-06-23 18:29:20,055 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 18:29:20,056 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 18:29:20,056 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 18:29:20,056 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 18:29:20,056 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 18:29:20,057 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 18:29:20,057 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 18:29:20,057 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 18:29:20,057 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 18:29:20,057 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 18:29:20,057 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 18:29:20,058 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 18:29:20,058 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 18:29:20,058 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 18:29:20,058 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 18:29:20,059 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 18:29:20,059 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 18:29:20,059 - bot - INFO - Use !test_welcome and !test_goodbye commands to test welcome functionality
+2025-06-23 18:29:54,793 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 18:29:54,793 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 18:29:54,794 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 18:29:54,794 - discord.client - INFO - logging in using static token
+2025-06-23 18:29:54,794 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-06-23 18:29:55,407 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 66c97dbccdcfb1b362740794d9ffdfcb).
+2025-06-23 18:29:57,411 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 18:29:57,411 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 18:29:57,411 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 18:29:57,411 - bot - INFO - Available channels:
+2025-06-23 18:29:57,411 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 18:29:57,412 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 18:29:57,412 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 18:29:57,412 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 18:29:57,412 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 18:29:57,412 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 18:29:57,412 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 18:29:57,412 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 18:29:57,412 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 18:29:57,412 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 18:29:57,412 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 18:29:57,413 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 18:29:57,413 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 18:29:57,413 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 18:29:57,413 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 18:29:57,413 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 18:29:57,413 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 18:29:57,413 - bot - INFO - Use "test bienvenida" and "test despedida" messages to test welcome functionality
+2025-06-23 18:30:24,082 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 18:30:24,082 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 18:30:24,082 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 18:30:24,082 - discord.client - INFO - logging in using static token
+2025-06-23 18:30:24,082 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-06-23 18:30:25,829 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 6fdbde4e0a5db5c58d72ff97fd64c9e5).
+2025-06-23 18:30:27,843 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 18:30:27,843 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 18:30:27,843 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 18:30:27,843 - bot - INFO - Available channels:
+2025-06-23 18:30:27,843 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 18:30:27,843 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 18:30:27,844 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 18:30:27,844 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 18:30:27,844 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 18:30:27,844 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 18:30:27,844 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 18:30:27,844 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 18:30:27,844 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 18:30:27,844 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 18:30:27,844 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 18:30:27,844 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 18:30:27,844 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 18:30:27,844 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 18:30:27,845 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 18:30:27,845 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 18:30:27,845 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 18:30:27,845 - bot - INFO - Use "test bienvenida" and "test despedida" messages to test welcome functionality
+2025-06-23 18:31:39,408 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 18:31:39,409 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 18:31:39,409 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 18:31:39,409 - discord.client - INFO - logging in using static token
+2025-06-23 18:31:39,409 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-06-23 18:31:40,309 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d16db8a67894cc0e8213058b75cfe3f8).
+2025-06-23 18:31:42,319 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 18:31:42,319 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 18:31:42,319 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 18:31:42,319 - bot - INFO - Available channels:
+2025-06-23 18:31:42,319 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 18:31:42,320 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 18:31:42,320 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 18:31:42,320 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 18:31:42,320 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 18:31:42,320 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 18:31:42,320 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 18:31:42,320 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 18:31:42,320 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 18:31:42,320 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 18:31:42,320 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 18:31:42,321 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 18:31:42,321 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 18:31:42,321 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 18:31:42,321 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 18:31:42,321 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 18:31:42,321 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 18:31:42,321 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-23 18:33:31,088 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 18:33:31,088 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 18:33:31,088 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 18:33:31,088 - discord.client - INFO - logging in using static token
+2025-06-23 18:33:31,864 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 636739e610bdcc8a776b766e8bdd1d3f).
+2025-06-23 18:33:33,877 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 18:33:33,877 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 18:33:33,877 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 18:33:33,877 - bot - INFO - Available channels:
+2025-06-23 18:33:33,877 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 18:33:33,877 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 18:33:33,878 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 18:33:33,878 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 18:33:33,878 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 18:33:33,878 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 18:33:33,878 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 18:33:33,878 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 18:33:33,878 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 18:33:33,878 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 18:33:33,878 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 18:33:33,878 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 18:33:33,878 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 18:33:33,879 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 18:33:33,879 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 18:33:33,879 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 18:33:33,879 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 18:33:33,879 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-23 18:34:39,406 - bot - INFO - Reminder sent to channel: 📬-sugerencias
+2025-06-23 18:34:39,406 - bot - INFO - Sent reminder and reset counter for channel 📬-sugerencias
+2025-06-23 18:36:11,625 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 18:36:11,626 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 18:36:11,626 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 18:36:11,626 - discord.client - INFO - logging in using static token
+2025-06-23 18:36:12,183 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c7451b953fde973ff725747864963146).
+2025-06-23 18:36:14,186 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 18:36:14,186 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 18:36:14,186 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 18:36:14,187 - bot - INFO - Available channels:
+2025-06-23 18:36:14,187 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 18:36:14,187 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 18:36:14,187 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 18:36:14,187 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 18:36:14,187 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 18:36:14,187 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 18:36:14,187 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 18:36:14,187 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 18:36:14,188 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 18:36:14,188 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 18:36:14,188 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 18:36:14,188 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 18:36:14,188 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 18:36:14,188 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 18:36:14,188 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 18:36:14,188 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 18:36:14,188 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 18:36:14,189 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-23 18:38:14,784 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 18:38:14,785 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 18:38:14,785 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 18:38:14,785 - discord.client - INFO - logging in using static token
+2025-06-23 18:38:15,450 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 6451f8e5f9276745a291198f2bc3389e).
+2025-06-23 18:38:17,453 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 18:38:17,453 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 18:38:17,454 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 18:38:17,454 - bot - INFO - Available channels:
+2025-06-23 18:38:17,454 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 18:38:17,454 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 18:38:17,454 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 18:38:17,454 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 18:38:17,454 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 18:38:17,454 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 18:38:17,454 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 18:38:17,454 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 18:38:17,455 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 18:38:17,455 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 18:38:17,455 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 18:38:17,455 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 18:38:17,455 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 18:38:17,455 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 18:38:17,455 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 18:38:17,455 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 18:38:17,455 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 18:38:17,456 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-23 18:38:22,492 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 18:38:22,492 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 18:38:22,492 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 18:38:22,492 - discord.client - INFO - logging in using static token
+2025-06-23 18:38:23,244 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8d8ac382c9767dcc9f5b3ad078fca93f).
+2025-06-23 18:38:25,247 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 18:38:25,251 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 18:38:25,251 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 18:38:25,251 - bot - INFO - Available channels:
+2025-06-23 18:38:25,251 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 18:38:25,251 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 18:38:25,252 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 18:38:25,252 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 18:38:25,252 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 18:38:25,252 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 18:38:25,252 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 18:38:25,252 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 18:38:25,252 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 18:38:25,252 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 18:38:25,253 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 18:38:25,253 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 18:38:25,253 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 18:38:25,253 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 18:38:25,253 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 18:38:25,253 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 18:38:25,253 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 18:38:25,253 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-23 18:38:50,855 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 18:38:50,856 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 18:38:50,856 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 18:38:50,856 - discord.client - INFO - logging in using static token
+2025-06-23 18:38:51,410 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b390c73d87f27eccb5b90008731e5339).
+2025-06-23 18:38:53,415 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 18:38:53,415 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 18:38:53,415 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 18:38:53,415 - bot - INFO - Available channels:
+2025-06-23 18:38:53,415 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 18:38:53,415 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 18:38:53,415 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 18:38:53,416 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 18:38:53,416 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 18:38:53,416 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 18:38:53,416 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 18:38:53,416 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 18:38:53,416 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 18:38:53,416 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 18:38:53,416 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 18:38:53,416 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 18:38:53,416 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 18:38:53,416 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 18:38:53,416 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 18:38:53,417 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 18:38:53,417 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 18:38:53,417 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-23 18:40:17,239 - bot - INFO - Received message: "/test bienvenida" from unax0829 in #🛫-bienvenidas
+2025-06-23 18:40:17,239 - bot - INFO - Test bienvenida command from unax0829
+2025-06-23 18:40:17,520 - bot - INFO - Received message: "👋 ¡Bienvenido/a, <@1310994218738515982>! Gracias por unirte a nuestro servidor." from 24/7 vanilla in #🛫-bienvenidas
+2025-06-23 18:40:17,715 - bot - INFO - Received message: "Mensaje de bienvenida enviado." from 24/7 vanilla in #🛫-bienvenidas
+2025-06-23 18:40:17,751 - bot - INFO - Test welcome message sent successfully
+2025-06-23 18:41:31,499 - bot - INFO - Received message: "👋 Unax ha salido del servidor. ¡Hasta pronto!" from 24/7 vanilla in #🛫-bienvenidas
+2025-06-23 18:41:31,507 - bot - INFO - Goodbye message sent for unax0713 (1386648800277430484)
+2025-06-23 18:41:35,182 - bot - INFO - Received message: "👋 ¡Bienvenido/a, <@1386648800277430484>! Gracias por unirte a nuestro servidor." from 24/7 vanilla in #🛫-bienvenidas
+2025-06-23 18:41:35,220 - bot - INFO - Welcome message sent for unax0713 (1386648800277430484)
+2025-06-23 18:41:36,289 - bot - INFO - Received message: "" from unax0713 in #🛫-bienvenidas
+2025-06-23 18:53:54,922 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 18:53:54,924 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 18:53:54,924 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 18:53:54,924 - discord.client - INFO - logging in using static token
+2025-06-23 18:53:55,530 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 338a4bc1d9a058192bb8bb2c153a4472).
+2025-06-23 18:53:57,534 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 18:53:57,534 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 18:53:57,535 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 18:53:57,535 - bot - INFO - Available channels:
+2025-06-23 18:53:57,535 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 18:53:57,535 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 18:53:57,535 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 18:53:57,535 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 18:53:57,535 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 18:53:57,535 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 18:53:57,535 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 18:53:57,535 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 18:53:57,535 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 18:53:57,535 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 18:53:57,536 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 18:53:57,536 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 18:53:57,536 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 18:53:57,536 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 18:53:57,536 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 18:53:57,536 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 18:53:57,536 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 18:53:57,536 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-23 18:53:57,650 - bot - INFO - Sincronizados 0 comandos slash
+2025-06-23 18:54:15,727 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 18:54:15,728 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 18:54:15,728 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 18:54:15,728 - discord.client - INFO - logging in using static token
+2025-06-23 18:54:16,582 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9bc69644919ee78063f1f5e122ba84d5).
+2025-06-23 18:54:18,586 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 18:54:18,586 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 18:54:18,586 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 18:54:18,586 - bot - INFO - Available channels:
+2025-06-23 18:54:18,586 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 18:54:18,587 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 18:54:18,587 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 18:54:18,587 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 18:54:18,587 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 18:54:18,587 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 18:54:18,587 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 18:54:18,587 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 18:54:18,587 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 18:54:18,587 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 18:54:18,587 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 18:54:18,588 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 18:54:18,588 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 18:54:18,588 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 18:54:18,588 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 18:54:18,588 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 18:54:18,588 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 18:54:18,588 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-23 18:54:40,022 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 18:54:40,023 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 18:54:40,023 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 18:54:40,023 - discord.client - INFO - logging in using static token
+2025-06-23 18:54:40,619 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 502b9eed806b1ab120e89613f245d629).
+2025-06-23 18:54:42,623 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 18:54:42,623 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 18:54:42,623 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 18:54:42,624 - bot - INFO - Available channels:
+2025-06-23 18:54:42,624 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 18:54:42,624 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 18:54:42,624 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 18:54:42,624 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 18:54:42,624 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 18:54:42,624 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 18:54:42,624 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 18:54:42,624 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 18:54:42,624 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 18:54:42,624 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 18:54:42,624 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 18:54:42,625 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 18:54:42,625 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 18:54:42,625 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 18:54:42,625 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 18:54:42,625 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 18:54:42,625 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 18:54:42,625 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-23 18:55:18,353 - bot - INFO - Received message: "/strike" from unax0829 in #⚠️-strikes
+2025-06-23 18:55:27,681 - bot - INFO - Sincronizados 0 comandos slash
+2025-06-23 18:56:02,000 - bot - INFO - Received message: "/strike add <@1310994218738515982>  leve "motivo"" from unax0829 in #⚠️-strikes
+2025-06-23 18:56:32,200 - bot - INFO - Received message: "/strike check <@1310994218738515982>" from unax0829 in #⚠️-strikes
+2025-06-23 18:57:26,455 - bot - INFO - Received message: "/strike add <@1310994218738515982> leve "a"" from unax0829 in #⚠️-strikes
+2025-06-23 18:57:32,667 - bot - INFO - Received message: "Nsn" from unax0829 in #⚠️-strikes
+2025-06-23 18:58:44,614 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 18:58:44,615 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 18:58:44,615 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 18:58:44,615 - discord.client - INFO - logging in using static token
+2025-06-23 18:58:45,297 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 75086e49d4b31103ff0edc5574eb6344).
+2025-06-23 18:58:47,301 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 18:58:47,301 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 18:58:47,301 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 18:58:47,302 - bot - INFO - Available channels:
+2025-06-23 18:58:47,302 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 18:58:47,302 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 18:58:47,302 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 18:58:47,302 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 18:58:47,302 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 18:58:47,302 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 18:58:47,302 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 18:58:47,302 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 18:58:47,303 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 18:58:47,303 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 18:58:47,303 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 18:58:47,303 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 18:58:47,303 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 18:58:47,303 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 18:58:47,303 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 18:58:47,303 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 18:58:47,303 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 18:58:47,304 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-23 18:58:47,484 - bot - INFO - Sincronizados 1 comandos slash
+2025-06-23 18:58:47,484 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-23 18:59:39,706 - bot - INFO - Received message: "/strike add <@1310994218738515982>  leve "motivo"" from unax0829 in #⚠️-strikes
+2025-06-23 19:00:45,739 - discord.app_commands.tree - ERROR - Ignoring exception in command 'strike'
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/tree.py", line 1310, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/commands.py", line 883, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/commands.py", line 871, in _do_call
+    raise CommandSignatureMismatch(self) from None
+discord.app_commands.errors.CommandSignatureMismatch: The signature for command 'strike' is different from the one provided by Discord. This can happen because either your code is out of date or you have not synced the commands with Discord, causing the mismatch in data. It is recommended to sync the command tree to fix this issue.
+2025-06-23 19:01:25,161 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 19:01:25,162 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 19:01:25,162 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 19:01:25,162 - discord.client - INFO - logging in using static token
+2025-06-23 19:01:25,783 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 25d9456f456c636b2b1429274ef92de2).
+2025-06-23 19:01:27,788 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 19:01:27,789 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 19:01:27,789 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 19:01:27,789 - bot - INFO - Available channels:
+2025-06-23 19:01:27,789 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 19:01:27,789 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 19:01:27,789 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 19:01:27,790 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 19:01:27,790 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 19:01:27,790 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 19:01:27,790 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 19:01:27,790 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 19:01:27,790 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 19:01:27,790 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 19:01:27,790 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 19:01:27,790 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 19:01:27,791 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 19:01:27,791 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 19:01:27,791 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 19:01:27,791 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 19:01:27,791 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 19:01:27,791 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-23 19:01:28,094 - bot - INFO - Sincronizados 1 comandos slash
+2025-06-23 19:01:28,095 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-23 19:02:24,987 - bot - ERROR - Bot error in event on_message
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/workspace/bot.py", line 224, in on_message
+    self.logger.info(f'Received message: "{message.content}" from {message.author.name} in #{message.channel.name}')
+                                                                                             ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'DMChannel' object has no attribute 'name'
+2025-06-23 19:03:29,585 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 19:03:29,585 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 19:03:29,586 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 19:03:29,586 - discord.client - INFO - logging in using static token
+2025-06-23 19:03:30,202 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 95fea4a9369cb0f5cbbb1b51469d4425).
+2025-06-23 19:03:32,207 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 19:03:32,207 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 19:03:32,207 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 19:03:32,207 - bot - INFO - Available channels:
+2025-06-23 19:03:32,207 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 19:03:32,207 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 19:03:32,207 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 19:03:32,208 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 19:03:32,208 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 19:03:32,208 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 19:03:32,208 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 19:03:32,208 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 19:03:32,208 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 19:03:32,208 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 19:03:32,208 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 19:03:32,208 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 19:03:32,208 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 19:03:32,209 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 19:03:32,209 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 19:03:32,209 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 19:03:32,209 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 19:03:32,209 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-23 19:03:32,377 - bot - INFO - Sincronizados 1 comandos slash
+2025-06-23 19:03:32,377 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-23 19:03:37,340 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 19:03:37,340 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 19:03:37,341 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 19:03:37,341 - discord.client - INFO - logging in using static token
+2025-06-23 19:03:37,898 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d7ff4dbd784103ba945be96092466f65).
+2025-06-23 19:03:39,902 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 19:03:39,902 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 19:03:39,902 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 19:03:39,902 - bot - INFO - Available channels:
+2025-06-23 19:03:39,902 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 19:03:39,902 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 19:03:39,903 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 19:03:39,903 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 19:03:39,903 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 19:03:39,903 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 19:03:39,903 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 19:03:39,903 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 19:03:39,903 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 19:03:39,903 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 19:03:39,903 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 19:03:39,903 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 19:03:39,903 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 19:03:39,904 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 19:03:39,904 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 19:03:39,904 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 19:03:39,904 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 19:03:39,904 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-23 19:03:44,748 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 19:03:44,752 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 19:03:44,753 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 19:03:44,753 - discord.client - INFO - logging in using static token
+2025-06-23 19:03:45,414 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3c1e3af042878b0365d1b70ed4abdbed).
+2025-06-23 19:03:47,419 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 19:03:47,419 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 19:03:47,419 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 19:03:47,419 - bot - INFO - Available channels:
+2025-06-23 19:03:47,419 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 19:03:47,419 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 19:03:47,420 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 19:03:47,420 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 19:03:47,420 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 19:03:47,420 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 19:03:47,420 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 19:03:47,420 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 19:03:47,420 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 19:03:47,420 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 19:03:47,420 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 19:03:47,420 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 19:03:47,420 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 19:03:47,421 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 19:03:47,421 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 19:03:47,421 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 19:03:47,421 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 19:03:47,421 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-23 19:03:47,492 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1386757167180419254/commands responded with 429. Retrying in 14.79 seconds.
+2025-06-23 19:05:02,447 - bot - INFO - Sincronizados 1 comandos slash
+2025-06-23 19:05:02,447 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-23 19:05:31,492 - bot - INFO - Checking roles for unax0829: ['@everyone', '👑 Gerente']
+2025-06-23 19:05:31,492 - bot - INFO - Required roles: ['Gerente', 'Subgerente']
+2025-06-23 19:05:31,492 - bot - INFO - Has required role: False
+2025-06-23 19:05:31,706 - bot - INFO - Received message: "" from 24/7 vanilla in #DM
+2025-06-23 19:06:57,374 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 19:06:57,375 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 19:06:57,376 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 19:06:57,376 - discord.client - INFO - logging in using static token
+2025-06-23 19:06:58,034 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 89722033f4637b1b8934a184aec8e57f).
+2025-06-23 19:07:00,040 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 19:07:00,040 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 19:07:00,040 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 19:07:00,040 - bot - INFO - Available channels:
+2025-06-23 19:07:00,040 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 19:07:00,041 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 19:07:00,041 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 19:07:00,041 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 19:07:00,041 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 19:07:00,041 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 19:07:00,041 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 19:07:00,041 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 19:07:00,041 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 19:07:00,041 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 19:07:00,042 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 19:07:00,042 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 19:07:00,042 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 19:07:00,042 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 19:07:00,042 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 19:07:00,042 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 19:07:00,042 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 19:07:00,043 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-23 19:07:00,289 - bot - INFO - Sincronizados 1 comandos slash
+2025-06-23 19:07:00,289 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-23 19:07:22,601 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 19:07:22,602 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 19:07:22,602 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 19:07:22,603 - discord.client - INFO - logging in using static token
+2025-06-23 19:07:23,108 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8f496a3b121148379aced8742676652a).
+2025-06-23 19:07:25,130 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 19:07:25,130 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 19:07:25,130 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 19:07:25,130 - bot - INFO - Available channels:
+2025-06-23 19:07:25,130 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 19:07:25,130 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 19:07:25,131 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 19:07:25,131 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 19:07:25,131 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 19:07:25,131 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 19:07:25,131 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 19:07:25,131 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 19:07:25,131 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 19:07:25,131 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 19:07:25,131 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 19:07:25,131 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 19:07:25,132 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 19:07:25,132 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 19:07:25,132 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 19:07:25,132 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 19:07:25,132 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 19:07:25,132 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-23 19:08:00,218 - bot - INFO - Sincronizados 1 comandos slash
+2025-06-23 19:08:00,219 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-23 19:09:04,018 - bot - INFO - Checking roles for unax0829: ['@everyone', '👑 Gerente']
+2025-06-23 19:09:04,018 - bot - INFO - Required roles: ['Gerente', 'Subgerente', '👑 Gerente', '👑 Subgerente']
+2025-06-23 19:09:04,018 - bot - INFO - Has required role: True
+2025-06-23 19:09:04,187 - bot - INFO - Received message: "" from 24/7 vanilla in #DM
+2025-06-23 19:09:18,997 - bot - INFO - Checking roles for unax0829: ['@everyone', '👑 Gerente']
+2025-06-23 19:09:18,997 - bot - INFO - Required roles: ['Gerente', 'Subgerente', '👑 Gerente', '👑 Subgerente']
+2025-06-23 19:09:18,997 - bot - INFO - Has required role: True
+2025-06-23 19:09:19,259 - bot - INFO - Received message: "" from 24/7 vanilla in #⚠️-strikes
+2025-06-23 19:09:19,303 - bot - INFO - Strike leve agregado a unax0829 por unax0829: a
+2025-06-23 19:09:41,351 - bot - INFO - Checking roles for unax0829: ['@everyone', '👑 Gerente']
+2025-06-23 19:09:41,351 - bot - INFO - Required roles: ['Gerente', 'Subgerente', '👑 Gerente', '👑 Subgerente']
+2025-06-23 19:09:41,351 - bot - INFO - Has required role: True
+2025-06-23 19:09:41,567 - bot - INFO - Received message: "" from 24/7 vanilla in #⚠️-strikes
+2025-06-23 19:09:58,257 - bot - INFO - Checking roles for unax0829: ['@everyone', '👑 Gerente']
+2025-06-23 19:09:58,258 - bot - INFO - Required roles: ['Gerente', 'Subgerente', '👑 Gerente', '👑 Subgerente']
+2025-06-23 19:09:58,258 - bot - INFO - Has required role: True
+2025-06-23 19:09:58,455 - bot - INFO - Received message: "" from 24/7 vanilla in #⚠️-strikes
+2025-06-23 19:09:58,484 - bot - INFO - Strike removido de unax0829 por unax0829
+2025-06-23 19:10:10,933 - bot - INFO - Checking roles for unax0829: ['@everyone', '👑 Gerente']
+2025-06-23 19:10:10,933 - bot - INFO - Required roles: ['Gerente', 'Subgerente', '👑 Gerente', '👑 Subgerente']
+2025-06-23 19:10:10,933 - bot - INFO - Has required role: True
+2025-06-23 19:10:11,104 - bot - INFO - Received message: "" from 24/7 vanilla in #⚠️-strikes
+2025-06-23 22:52:18,504 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 22:52:18,507 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 22:52:18,508 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 22:52:18,508 - discord.client - INFO - logging in using static token
+2025-06-23 22:52:19,279 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 677d946947afc1d84e903b91294c2cee).
+2025-06-23 22:52:21,285 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 22:52:21,287 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 22:52:21,289 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 22:52:21,290 - bot - INFO - Available channels:
+2025-06-23 22:52:21,290 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 22:52:21,290 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 22:52:21,290 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 22:52:21,290 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 22:52:21,290 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 22:52:21,290 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 22:52:21,290 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 22:52:21,290 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 22:52:21,290 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 22:52:21,291 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 22:52:21,291 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 22:52:21,291 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 22:52:21,291 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 22:52:21,291 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 22:52:21,291 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 22:52:21,291 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 22:52:21,292 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 22:52:21,292 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-23 22:52:21,600 - bot - INFO - Sincronizados 1 comandos slash
+2025-06-23 22:52:21,601 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-23 22:52:55,462 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 22:52:55,463 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 22:52:55,464 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 22:52:55,464 - discord.client - INFO - logging in using static token
+2025-06-23 22:52:56,077 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 09c42480198aea8da468983ac381d084).
+2025-06-23 22:52:58,082 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 22:52:58,083 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 22:52:58,083 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 22:52:58,083 - bot - INFO - Available channels:
+2025-06-23 22:52:58,083 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 22:52:58,083 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 22:52:58,083 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 22:52:58,083 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 22:52:58,083 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 22:52:58,083 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 22:52:58,083 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 22:52:58,083 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 22:52:58,084 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 22:52:58,084 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 22:52:58,084 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 22:52:58,088 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 22:52:58,088 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 22:52:58,091 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 22:52:58,091 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 22:52:58,091 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 22:52:58,091 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 22:52:58,091 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-23 22:52:58,392 - bot - INFO - Sincronizados 2 comandos slash
+2025-06-23 22:52:58,392 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-23 22:52:58,392 - bot - INFO -   - aceptar: Acepta la solicitud de un usuario y le asigna un rol
+2025-06-23 22:55:14,945 - bot - INFO - Checking roles for unax0829: ['@everyone', '👑 Gerente']
+2025-06-23 22:55:14,945 - bot - INFO - Required roles: ['Gerente', 'Subgerente', '👑 Gerente', '👑 Subgerente']
+2025-06-23 22:55:14,945 - bot - INFO - Has required role: True
+2025-06-23 22:55:15,327 - bot - INFO - Received message: "" from 24/7 vanilla in #DM
+2025-06-23 22:55:15,332 - bot - ERROR - Error asignando rol 🛒 Empleado a unax0713: Sin permisos
+2025-06-23 22:56:58,502 - bot - INFO - Checking roles for unax0829: ['@everyone', '👑 Gerente']
+2025-06-23 22:56:58,502 - bot - INFO - Required roles: ['Gerente', 'Subgerente', '👑 Gerente', '👑 Subgerente']
+2025-06-23 22:56:58,503 - bot - INFO - Has required role: True
+2025-06-23 22:56:58,823 - bot - INFO - Received message: "" from 24/7 vanilla in #✅-aceptados
+2025-06-23 22:56:58,872 - bot - INFO - Solicitud aceptada: unax0713 recibió rol 🛒 Empleado por unax0829
+2025-06-23 22:59:10,925 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 22:59:10,926 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 22:59:10,927 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 22:59:10,927 - discord.client - INFO - logging in using static token
+2025-06-23 22:59:11,646 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e07cab2232b7ff04164c1b53eb1a5721).
+2025-06-23 22:59:13,650 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 22:59:13,650 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 22:59:13,650 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 22:59:13,651 - bot - INFO - Available channels:
+2025-06-23 22:59:13,651 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 22:59:13,651 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 22:59:13,651 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 22:59:13,651 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 22:59:13,651 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 22:59:13,651 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 22:59:13,651 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 22:59:13,651 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 22:59:13,652 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 22:59:13,652 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 22:59:13,652 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 22:59:13,652 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 22:59:13,652 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 22:59:13,652 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 22:59:13,652 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 22:59:13,652 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 22:59:13,652 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 22:59:13,652 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-23 22:59:13,866 - bot - INFO - Sincronizados 2 comandos slash
+2025-06-23 22:59:13,866 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-23 22:59:13,867 - bot - INFO -   - aceptar: Acepta la solicitud de un usuario y le asigna un rol
+2025-06-23 22:59:22,388 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 22:59:22,388 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 22:59:22,389 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 22:59:22,389 - discord.client - INFO - logging in using static token
+2025-06-23 22:59:23,246 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8c8acef9f29c9198d7dc1fa383e3696b).
+2025-06-23 22:59:25,257 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 22:59:25,257 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 22:59:25,257 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 22:59:25,257 - bot - INFO - Available channels:
+2025-06-23 22:59:25,258 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 22:59:25,258 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 22:59:25,258 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 22:59:25,258 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 22:59:25,258 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 22:59:25,258 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 22:59:25,258 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 22:59:25,258 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 22:59:25,259 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 22:59:25,259 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 22:59:25,259 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 22:59:25,259 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 22:59:25,259 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 22:59:25,259 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 22:59:25,259 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 22:59:25,259 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 22:59:25,259 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 22:59:25,259 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-23 23:00:13,940 - bot - INFO - Sincronizados 2 comandos slash
+2025-06-23 23:00:13,940 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-23 23:00:13,940 - bot - INFO -   - aceptar: Acepta la solicitud de un usuario y le asigna un rol
+2025-06-23 23:00:28,323 - bot - INFO - Checking roles for unax0829: ['@everyone', '👑 Gerente']
+2025-06-23 23:00:28,323 - bot - INFO - Required roles: ['Gerente', 'Subgerente', '👑 Gerente', '👑 Subgerente']
+2025-06-23 23:00:28,323 - bot - INFO - Has required role: True
+2025-06-23 23:00:28,752 - bot - INFO - Received message: "" from 24/7 vanilla in #✅-aceptados
+2025-06-23 23:00:28,883 - bot - INFO - Solicitud aceptada: unax0713 recibió rol 🛒 Empleado por unax0829
+2025-06-23 23:04:09,840 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 23:04:09,841 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-23 23:04:09,842 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-23 23:04:09,842 - discord.client - INFO - logging in using static token
+2025-06-23 23:04:10,642 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ea878e4ecd2a35a8840fc76dfe580591).
+2025-06-23 23:04:12,646 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-23 23:04:12,646 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-23 23:04:12,647 - bot - INFO - Reminder threshold: 5 messages
+2025-06-23 23:04:12,647 - bot - INFO - Available channels:
+2025-06-23 23:04:12,647 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-23 23:04:12,647 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-23 23:04:12,647 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-23 23:04:12,648 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-23 23:04:12,648 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-23 23:04:12,648 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-23 23:04:12,648 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-23 23:04:12,648 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-23 23:04:12,648 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-23 23:04:12,648 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-23 23:04:12,648 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-23 23:04:12,648 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-23 23:04:12,648 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-23 23:04:12,648 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-23 23:04:12,649 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-23 23:04:12,649 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-23 23:04:12,649 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-23 23:04:12,649 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-23 23:04:12,900 - bot - INFO - Sincronizados 3 comandos slash
+2025-06-23 23:04:12,900 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-23 23:04:12,901 - bot - INFO -   - aceptar: Acepta la solicitud de un usuario y le asigna un rol
+2025-06-23 23:04:12,901 - bot - INFO -   - denegar: Deniega la solicitud de un usuario y lo banea del servidor
+2025-06-23 23:05:34,991 - bot - INFO - Checking roles for unax0829: ['@everyone', '👑 Gerente']
+2025-06-23 23:05:34,991 - bot - INFO - Required roles: ['Gerente', 'Subgerente', '👑 Gerente', '👑 Subgerente']
+2025-06-23 23:05:34,991 - bot - INFO - Has required role: True
+2025-06-23 23:05:35,824 - bot - INFO - Received message: "" from 24/7 vanilla in #DM
+2025-06-23 23:05:36,099 - bot - INFO - Mensaje de denegación enviado por DM a unax0713
+2025-06-23 23:05:36,412 - bot - INFO - Received message: "👋 Unax ha salido del servidor. ¡Hasta pronto!" from 24/7 vanilla in #🛫-bienvenidas
+2025-06-23 23:05:36,439 - bot - INFO - Goodbye message sent for unax0713 (1386648800277430484)
+2025-06-23 23:05:36,452 - bot - INFO - Received message: "" from 24/7 vanilla in #❌-denegados
+2025-06-23 23:05:36,494 - bot - INFO - Solicitud denegada: unax0713 baneado por unax0829
+2025-06-23 23:07:32,997 - bot - INFO - Received message: "👋 ¡Bienvenido/a, <@1386648800277430484>! Gracias por unirte a nuestro servidor." from 24/7 vanilla in #🛫-bienvenidas
+2025-06-23 23:07:33,035 - bot - INFO - Welcome message sent for unax0713 (1386648800277430484)
+2025-06-24 12:13:13,669 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-24 12:13:13,670 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-24 12:13:13,671 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-24 12:13:13,672 - discord.client - INFO - logging in using static token
+2025-06-24 12:13:14,649 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2b996ef39738c1ca3d716483f3f21755).
+2025-06-24 12:13:16,655 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-24 12:13:16,655 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-24 12:13:16,655 - bot - INFO - Reminder threshold: 5 messages
+2025-06-24 12:13:16,655 - bot - INFO - Available channels:
+2025-06-24 12:13:16,655 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-24 12:13:16,655 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-24 12:13:16,655 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-24 12:13:16,656 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-24 12:13:16,656 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-24 12:13:16,656 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-24 12:13:16,656 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-24 12:13:16,656 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-24 12:13:16,656 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-24 12:13:16,656 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-24 12:13:16,656 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-24 12:13:16,656 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-24 12:13:16,656 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-24 12:13:16,656 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-24 12:13:16,656 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-24 12:13:16,656 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-24 12:13:16,656 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-24 12:13:16,657 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-24 12:13:16,980 - bot - INFO - Sincronizados 3 comandos slash
+2025-06-24 12:13:16,981 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-24 12:13:16,981 - bot - INFO -   - aceptar: Acepta la solicitud de un usuario y le asigna un rol
+2025-06-24 12:13:16,981 - bot - INFO -   - denegar: Deniega la solicitud de un usuario y lo banea del servidor
+2025-06-24 13:21:49,181 - bot - WARNING - Bot disconnected from Discord
+2025-06-24 13:21:49,316 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 2b996ef39738c1ca3d716483f3f21755.
+2025-06-24 13:21:49,316 - bot - INFO - Bot resumed connection to Discord
+2025-06-24 22:11:01,815 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-24 22:11:01,816 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-24 22:11:01,818 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-24 22:11:01,818 - discord.client - INFO - logging in using static token
+2025-06-24 22:11:02,476 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 065308fb1bcd412230d13cef1faec848).
+2025-06-24 22:11:04,491 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-24 22:11:04,491 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-24 22:11:04,491 - bot - INFO - Reminder threshold: 5 messages
+2025-06-24 22:11:04,492 - bot - INFO - Available channels:
+2025-06-24 22:11:04,492 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-24 22:11:04,492 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-24 22:11:04,492 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-24 22:11:04,492 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-24 22:11:04,492 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-24 22:11:04,492 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-24 22:11:04,492 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-24 22:11:04,493 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-24 22:11:04,493 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-24 22:11:04,493 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-24 22:11:04,493 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-24 22:11:04,493 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-24 22:11:04,493 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-24 22:11:04,493 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-24 22:11:04,493 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-24 22:11:04,493 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-24 22:11:04,493 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-24 22:11:04,493 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-24 22:11:05,121 - bot - INFO - Sincronizados 4 comandos slash
+2025-06-24 22:11:05,123 - bot - INFO -   - suggest: Sistema de sugerencias
+2025-06-24 22:11:05,123 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-24 22:11:05,123 - bot - INFO -   - aceptar: Acepta la solicitud de un usuario y le asigna un rol
+2025-06-24 22:11:05,123 - bot - INFO -   - denegar: Deniega la solicitud de un usuario y lo banea del servidor
+2025-06-24 22:13:23,639 - bot - INFO - Received message: "✅ Tu sugerencia ha sido enviada correctamente!" from 24/7 vanilla in #DM
+2025-06-24 22:13:23,833 - bot - INFO - Received message: "" from 24/7 vanilla in #📬-sugerencias
+2025-06-24 22:13:24,742 - bot - INFO - Nueva sugerencia creada por unax0829: hola...
+2025-06-24 22:14:09,981 - bot - INFO - Checking roles for unax0829: ['@everyone', '👑 Gerente']
+2025-06-24 22:14:09,982 - bot - INFO - Required roles: ['Gerente', 'Subgerente', '👑 Gerente', '👑 Subgerente']
+2025-06-24 22:14:09,982 - bot - INFO - Has required role: True
+2025-06-24 22:14:10,377 - bot - INFO - Received message: "✅ Sugerencia aceptada correctamente!" from 24/7 vanilla in #DM
+2025-06-24 22:14:10,398 - bot - INFO - Sugerencia 1387193921557364804 aceptada por unax0829
+2025-06-24 22:16:10,775 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-24 22:16:10,776 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-24 22:16:10,777 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-24 22:16:10,777 - discord.client - INFO - logging in using static token
+2025-06-24 22:16:11,534 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 12948f0c821bfbc3ae22eaeee7bb3c6e).
+2025-06-24 22:16:13,538 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-24 22:16:13,539 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-24 22:16:13,539 - bot - INFO - Reminder threshold: 5 messages
+2025-06-24 22:16:13,539 - bot - INFO - Available channels:
+2025-06-24 22:16:13,540 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-24 22:16:13,540 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-24 22:16:13,545 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-24 22:16:13,545 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-24 22:16:13,551 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-24 22:16:13,552 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-24 22:16:13,552 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-24 22:16:13,552 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-24 22:16:13,552 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-24 22:16:13,552 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-24 22:16:13,552 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-24 22:16:13,552 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-24 22:16:13,552 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-24 22:16:13,553 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-24 22:16:13,553 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-24 22:16:13,553 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-24 22:16:13,553 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-24 22:16:13,553 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-24 22:16:13,725 - bot - INFO - Sincronizados 4 comandos slash
+2025-06-24 22:16:13,726 - bot - INFO -   - suggest: Sistema de sugerencias
+2025-06-24 22:16:13,726 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-24 22:16:13,726 - bot - INFO -   - aceptar: Acepta la solicitud de un usuario y le asigna un rol
+2025-06-24 22:16:13,726 - bot - INFO -   - denegar: Deniega la solicitud de un usuario y lo banea del servidor
+2025-06-24 22:17:43,856 - bot - INFO - Received message: "✅ Tu sugerencia ha sido enviada correctamente!" from 24/7 vanilla in #DM
+2025-06-24 22:17:44,001 - bot - INFO - Received message: "" from 24/7 vanilla in #📬-sugerencias
+2025-06-24 22:17:44,865 - bot - INFO - Nueva sugerencia creada por unax0829: hola...
+2025-06-24 22:18:09,945 - bot - INFO - Checking roles for unax0829: ['@everyone', '👑 Gerente']
+2025-06-24 22:18:09,945 - bot - INFO - Required roles: ['Gerente', 'Subgerente', '👑 Gerente', '👑 Subgerente']
+2025-06-24 22:18:09,945 - bot - INFO - Has required role: True
+2025-06-24 22:18:10,342 - bot - INFO - Received message: "" from 24/7 vanilla in #☑️-sugerencias-resultados
+2025-06-24 22:18:10,570 - bot - INFO - Sugerencia movida a canal de resultados
+2025-06-24 22:18:10,738 - bot - INFO - Received message: "✅ Sugerencia aceptada y movida a resultados!" from 24/7 vanilla in #DM
+2025-06-24 22:18:10,746 - bot - INFO - Sugerencia 1387195013120917646 aceptada por unax0829
+2025-06-24 22:20:23,925 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-24 22:20:23,926 - bot - INFO - Loaded message counters: {1386600540389113916: 0}
+2025-06-24 22:20:23,927 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-24 22:20:23,927 - discord.client - INFO - logging in using static token
+2025-06-24 22:20:24,625 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 939d9752a2ab6e42ea8467803a760f89).
+2025-06-24 22:20:26,630 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-24 22:20:26,631 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-24 22:20:26,631 - bot - INFO - Reminder threshold: 5 messages
+2025-06-24 22:20:26,631 - bot - INFO - Available channels:
+2025-06-24 22:20:26,631 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-24 22:20:26,631 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-24 22:20:26,631 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-24 22:20:26,631 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-24 22:20:26,631 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-24 22:20:26,632 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-24 22:20:26,632 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-24 22:20:26,632 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-24 22:20:26,632 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-24 22:20:26,632 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-24 22:20:26,632 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-24 22:20:26,632 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-24 22:20:26,632 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-24 22:20:26,632 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-24 22:20:26,632 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-24 22:20:26,632 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-24 22:20:26,633 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-24 22:20:26,633 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-24 22:20:26,864 - bot - INFO - Sincronizados 4 comandos slash
+2025-06-24 22:20:26,865 - bot - INFO -   - suggest: Sistema de sugerencias
+2025-06-24 22:20:26,865 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-24 22:20:26,866 - bot - INFO -   - aceptar: Acepta la solicitud de un usuario y le asigna un rol
+2025-06-24 22:20:26,866 - bot - INFO -   - denegar: Deniega la solicitud de un usuario y lo banea del servidor
+2025-06-24 22:21:24,481 - bot - INFO - Received message: "✅ Tu sugerencia ha sido enviada correctamente!" from 24/7 vanilla in #DM
+2025-06-24 22:21:24,625 - bot - INFO - Received message: "" from 24/7 vanilla in #📬-sugerencias
+2025-06-24 22:21:25,679 - bot - INFO - Nueva sugerencia creada por unax0829: jajs...
+2025-06-24 22:21:49,260 - bot - INFO - Checking roles for unax0829: ['@everyone', '👑 Gerente']
+2025-06-24 22:21:49,261 - bot - INFO - Required roles: ['Gerente', 'Subgerente', '👑 Gerente', '👑 Subgerente']
+2025-06-24 22:21:49,261 - bot - INFO - Has required role: True
+2025-06-24 22:21:49,710 - bot - INFO - Received message: "" from 24/7 vanilla in #☑️-sugerencias-resultados
+2025-06-24 22:21:50,045 - bot - INFO - Sugerencia movida a canal de resultados
+2025-06-24 22:21:50,240 - bot - INFO - Received message: "✅ Sugerencia aceptada y movida a resultados!" from 24/7 vanilla in #DM
+2025-06-24 22:21:50,276 - bot - INFO - Sugerencia 1387195938493173875 aceptada por unax0829
+2025-06-24 22:22:46,369 - bot - INFO - Received message: "👋 Sugerencias ha salido del servidor. ¡Hasta pronto!" from 24/7 vanilla in #🛫-bienvenidas
+2025-06-24 22:22:46,401 - bot - INFO - Goodbye message sent for Sugerencias (847647869434986506)
+2025-06-24 22:23:39,551 - bot - INFO - Received message: "d ┬─┬ノ( º _ ºノ)" from unax0829 in #📬-sugerencias
+2025-06-24 22:23:56,613 - bot - INFO - Received message: "✅ Tu sugerencia ha sido enviada correctamente!" from 24/7 vanilla in #DM
+2025-06-24 22:23:56,878 - bot - INFO - Received message: "" from 24/7 vanilla in #📬-sugerencias
+2025-06-24 22:23:57,722 - bot - INFO - Nueva sugerencia creada por unax0829: ss...
+2025-06-24 22:24:01,738 - bot - INFO - Received message: "✅ Tu sugerencia ha sido enviada correctamente!" from 24/7 vanilla in #DM
+2025-06-24 22:24:01,931 - bot - INFO - Received message: "" from 24/7 vanilla in #📬-sugerencias
+2025-06-24 22:24:02,772 - bot - INFO - Nueva sugerencia creada por unax0829: dd...
+2025-06-24 22:24:07,010 - bot - INFO - Received message: "✅ Tu sugerencia ha sido enviada correctamente!" from 24/7 vanilla in #DM
+2025-06-24 22:24:07,178 - bot - INFO - Received message: "" from 24/7 vanilla in #📬-sugerencias
+2025-06-24 22:24:08,331 - bot - INFO - Nueva sugerencia creada por unax0829: jdjdj...
+2025-06-24 22:24:13,457 - bot - INFO - Received message: "✅ Tu sugerencia ha sido enviada correctamente!" from 24/7 vanilla in #DM
+2025-06-24 22:24:13,738 - bot - INFO - Received message: "" from 24/7 vanilla in #📬-sugerencias
+2025-06-24 22:24:14,670 - bot - INFO - Nueva sugerencia creada por unax0829: jdjdjjd...
+2025-06-24 22:24:17,491 - bot - INFO - Received message: "✅ Tu sugerencia ha sido enviada correctamente!" from 24/7 vanilla in #DM
+2025-06-24 22:24:17,660 - bot - INFO - Received message: "" from 24/7 vanilla in #📬-sugerencias
+2025-06-24 22:24:18,615 - bot - INFO - Nueva sugerencia creada por unax0829: o...
+2025-06-24 22:26:07,662 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-24 22:26:07,663 - bot - INFO - Loaded message counters: {1386600540389113916: 1}
+2025-06-24 22:26:07,664 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-24 22:26:07,664 - discord.client - INFO - logging in using static token
+2025-06-24 22:26:08,617 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 0e3e9bfff8c223955467e63c7b0cdd01).
+2025-06-24 22:26:10,622 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-24 22:26:10,622 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-24 22:26:10,622 - bot - INFO - Reminder threshold: 5 messages
+2025-06-24 22:26:10,622 - bot - INFO - Available channels:
+2025-06-24 22:26:10,622 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-24 22:26:10,622 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-24 22:26:10,623 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-24 22:26:10,623 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-24 22:26:10,623 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-24 22:26:10,623 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-24 22:26:10,623 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-24 22:26:10,623 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-24 22:26:10,623 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-24 22:26:10,623 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-24 22:26:10,623 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-24 22:26:10,623 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-24 22:26:10,623 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-24 22:26:10,623 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-24 22:26:10,623 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-24 22:26:10,623 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-24 22:26:10,624 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-24 22:26:10,624 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-24 22:26:10,858 - bot - INFO - Sincronizados 4 comandos slash
+2025-06-24 22:26:10,858 - bot - INFO -   - suggest: Sistema de sugerencias
+2025-06-24 22:26:10,859 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-24 22:26:10,859 - bot - INFO -   - aceptar: Acepta la solicitud de un usuario y le asigna un rol
+2025-06-24 22:26:10,859 - bot - INFO -   - denegar: Deniega la solicitud de un usuario y lo banea del servidor
+2025-06-24 22:27:00,875 - bot - INFO - Received message: "✅ Tu sugerencia ha sido enviada correctamente!" from 24/7 vanilla in #DM
+2025-06-24 22:27:01,161 - bot - INFO - Received message: "" from 24/7 vanilla in #📬-sugerencias
+2025-06-24 22:27:02,053 - bot - INFO - Nueva sugerencia creada por unax0829: wd...
+2025-06-24 22:27:06,050 - bot - INFO - Received message: "✅ Tu sugerencia ha sido enviada correctamente!" from 24/7 vanilla in #DM
+2025-06-24 22:27:06,222 - bot - INFO - Received message: "" from 24/7 vanilla in #📬-sugerencias
+2025-06-24 22:27:07,273 - bot - INFO - Nueva sugerencia creada por unax0829: udud...
+2025-06-24 22:27:10,671 - bot - INFO - Received message: "✅ Tu sugerencia ha sido enviada correctamente!" from 24/7 vanilla in #DM
+2025-06-24 22:27:10,934 - bot - INFO - Received message: "" from 24/7 vanilla in #📬-sugerencias
+2025-06-24 22:27:12,021 - bot - INFO - Nueva sugerencia creada por unax0829: udud...
+2025-06-24 22:27:23,119 - bot - INFO - Received message: "✅ Tu sugerencia ha sido enviada correctamente!" from 24/7 vanilla in #DM
+2025-06-24 22:27:23,342 - bot - INFO - Received message: "" from 24/7 vanilla in #📬-sugerencias
+2025-06-24 22:27:24,311 - bot - INFO - Nueva sugerencia creada por unax0829: jejd...
+2025-06-24 22:27:40,462 - bot - INFO - Received message: "✅ Tu sugerencia ha sido enviada correctamente!" from 24/7 vanilla in #DM
+2025-06-24 22:27:40,657 - bot - INFO - Received message: "" from 24/7 vanilla in #📬-sugerencias
+2025-06-24 22:27:41,843 - bot - INFO - Received message: "❌ Error al crear la sugerencia: 'Config' object has no attribute 'channel_id'" from 24/7 vanilla in #DM
+2025-06-24 22:27:41,851 - bot - ERROR - Error in suggest_create: 'Config' object has no attribute 'channel_id'
+2025-06-24 22:28:56,764 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-24 22:28:56,764 - bot - INFO - Loaded message counters: {1386600540389113916: 1}
+2025-06-24 22:28:56,766 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-24 22:28:56,766 - discord.client - INFO - logging in using static token
+2025-06-24 22:28:57,676 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ce8e65de4e60c46db68255f22c84db5a).
+2025-06-24 22:28:59,680 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-24 22:28:59,681 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-24 22:28:59,681 - bot - INFO - Reminder threshold: 5 messages
+2025-06-24 22:28:59,681 - bot - INFO - Available channels:
+2025-06-24 22:28:59,681 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-24 22:28:59,681 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-24 22:28:59,681 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-24 22:28:59,681 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-24 22:28:59,681 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-24 22:28:59,682 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-24 22:28:59,682 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-24 22:28:59,682 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-24 22:28:59,682 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-24 22:28:59,682 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-24 22:28:59,682 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-24 22:28:59,682 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-24 22:28:59,682 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-24 22:28:59,682 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-24 22:28:59,683 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-24 22:28:59,683 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-24 22:28:59,683 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-24 22:28:59,683 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-24 22:28:59,927 - bot - INFO - Sincronizados 4 comandos slash
+2025-06-24 22:28:59,927 - bot - INFO -   - suggest: Sistema de sugerencias
+2025-06-24 22:28:59,927 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-24 22:28:59,927 - bot - INFO -   - aceptar: Acepta la solicitud de un usuario y le asigna un rol
+2025-06-24 22:28:59,927 - bot - INFO -   - denegar: Deniega la solicitud de un usuario y lo banea del servidor
+2025-06-24 22:29:04,720 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-24 22:29:04,720 - bot - INFO - Loaded message counters: {1386600540389113916: 1}
+2025-06-24 22:29:04,721 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-24 22:29:04,721 - discord.client - INFO - logging in using static token
+2025-06-24 22:29:05,437 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a9706e882e4561985ddcfc6c54c9d436).
+2025-06-24 22:29:07,441 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-24 22:29:07,441 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-24 22:29:07,442 - bot - INFO - Reminder threshold: 5 messages
+2025-06-24 22:29:07,442 - bot - INFO - Available channels:
+2025-06-24 22:29:07,442 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-24 22:29:07,442 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-24 22:29:07,442 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-24 22:29:07,442 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-24 22:29:07,442 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-24 22:29:07,443 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-24 22:29:07,443 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-24 22:29:07,443 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-24 22:29:07,443 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-24 22:29:07,443 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-24 22:29:07,443 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-24 22:29:07,443 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-24 22:29:07,443 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-24 22:29:07,443 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-24 22:29:07,443 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-24 22:29:07,443 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-24 22:29:07,443 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-24 22:29:07,444 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-24 22:29:59,907 - bot - INFO - Sincronizados 4 comandos slash
+2025-06-24 22:29:59,907 - bot - INFO -   - suggest: Sistema de sugerencias
+2025-06-24 22:29:59,907 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-24 22:29:59,907 - bot - INFO -   - aceptar: Acepta la solicitud de un usuario y le asigna un rol
+2025-06-24 22:29:59,907 - bot - INFO -   - denegar: Deniega la solicitud de un usuario y lo banea del servidor
+2025-06-24 22:30:18,707 - bot - INFO - Received message: "✅ Tu sugerencia ha sido enviada correctamente!" from 24/7 vanilla in #DM
+2025-06-24 22:30:18,998 - bot - INFO - Received message: "" from 24/7 vanilla in #📬-sugerencias
+2025-06-24 22:30:19,953 - bot - INFO - Nueva sugerencia creada por unax0829: a...
+2025-06-24 22:30:23,779 - bot - INFO - Received message: "✅ Tu sugerencia ha sido enviada correctamente!" from 24/7 vanilla in #DM
+2025-06-24 22:30:24,057 - bot - INFO - Received message: "" from 24/7 vanilla in #📬-sugerencias
+2025-06-24 22:30:25,444 - bot - INFO - Nueva sugerencia creada por unax0829: jdjd...
+2025-06-24 22:30:29,003 - bot - INFO - Received message: "✅ Tu sugerencia ha sido enviada correctamente!" from 24/7 vanilla in #DM
+2025-06-24 22:30:29,369 - bot - INFO - Received message: "" from 24/7 vanilla in #📬-sugerencias
+2025-06-24 22:30:30,290 - bot - INFO - Nueva sugerencia creada por unax0829: i...
+2025-06-24 22:30:33,636 - bot - INFO - Received message: "✅ Tu sugerencia ha sido enviada correctamente!" from 24/7 vanilla in #DM
+2025-06-24 22:30:33,802 - bot - INFO - Received message: "" from 24/7 vanilla in #📬-sugerencias
+2025-06-24 22:30:34,713 - bot - INFO - Nueva sugerencia creada por unax0829: o...
+2025-06-24 22:30:38,484 - bot - INFO - Received message: "✅ Tu sugerencia ha sido enviada correctamente!" from 24/7 vanilla in #DM
+2025-06-24 22:30:38,843 - bot - INFO - Received message: "" from 24/7 vanilla in #📬-sugerencias
+2025-06-24 22:30:39,934 - bot - INFO - Received message: "💬 __***¿Tienes alguna sugerencia?***__
+Puedes enviar ideas tanto 🧠 **OOC**, 🎭 **IC** como del 🌐 **Discord**.
+Usa el comando 👉 `/suggest create` para hacer tu propuesta." from 24/7 vanilla in #📬-sugerencias
+2025-06-24 22:30:40,063 - bot - INFO - Mensaje recordatorio de sugerencias enviado
+2025-06-24 22:30:40,063 - bot - INFO - Nueva sugerencia creada por unax0829: s...
+2025-06-24 22:33:19,268 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-24 22:33:19,268 - bot - INFO - Loaded message counters: {1386600540389113916: 1}
+2025-06-24 22:33:19,270 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-24 22:33:19,270 - discord.client - INFO - logging in using static token
+2025-06-24 22:33:19,825 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 875ae7ed8f8d279c5660df7874929f41).
+2025-06-24 22:33:21,829 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-24 22:33:21,830 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-24 22:33:21,830 - bot - INFO - Reminder threshold: 5 messages
+2025-06-24 22:33:21,830 - bot - INFO - Available channels:
+2025-06-24 22:33:21,830 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-24 22:33:21,830 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-24 22:33:21,830 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-24 22:33:21,831 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-24 22:33:21,831 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-24 22:33:21,831 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-24 22:33:21,831 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-24 22:33:21,831 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-24 22:33:21,831 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-24 22:33:21,832 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-24 22:33:21,832 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-24 22:33:21,832 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-24 22:33:21,832 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-24 22:33:21,832 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-24 22:33:21,832 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-24 22:33:21,832 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-24 22:33:21,832 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-24 22:33:21,832 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-24 22:33:22,086 - bot - INFO - Sincronizados 4 comandos slash
+2025-06-24 22:33:22,087 - bot - INFO -   - suggest: Sistema de sugerencias
+2025-06-24 22:33:22,087 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-24 22:33:22,087 - bot - INFO -   - aceptar: Acepta la solicitud de un usuario y le asigna un rol
+2025-06-24 22:33:22,087 - bot - INFO -   - denegar: Deniega la solicitud de un usuario y lo banea del servidor
+2025-06-24 22:33:48,252 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-24 22:33:48,252 - bot - INFO - Loaded message counters: {1386600540389113916: 1}
+2025-06-24 22:33:48,253 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-24 22:33:48,253 - discord.client - INFO - logging in using static token
+2025-06-24 22:33:48,829 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b9ad9a4ab8aee7608155791de76959e5).
+2025-06-24 22:33:50,835 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-24 22:33:50,836 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-24 22:33:50,836 - bot - INFO - Reminder threshold: 5 messages
+2025-06-24 22:33:50,836 - bot - INFO - Available channels:
+2025-06-24 22:33:50,836 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-24 22:33:50,836 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-24 22:33:50,836 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-24 22:33:50,836 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-24 22:33:50,836 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-24 22:33:50,836 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-24 22:33:50,837 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-24 22:33:50,837 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-24 22:33:50,837 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-24 22:33:50,837 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-24 22:33:50,837 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-24 22:33:50,837 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-24 22:33:50,837 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-24 22:33:50,840 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-24 22:33:50,840 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-24 22:33:50,841 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-24 22:33:50,841 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-24 22:33:50,841 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-24 22:34:22,127 - bot - INFO - Sincronizados 4 comandos slash
+2025-06-24 22:34:22,127 - bot - INFO -   - suggest: Sistema de sugerencias
+2025-06-24 22:34:22,127 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-24 22:34:22,127 - bot - INFO -   - aceptar: Acepta la solicitud de un usuario y le asigna un rol
+2025-06-24 22:34:22,127 - bot - INFO -   - denegar: Deniega la solicitud de un usuario y lo banea del servidor
+2025-06-24 22:34:36,860 - bot - INFO - Received message: "G" from unax0829 in #📬-sugerencias
+2025-06-24 22:34:36,861 - bot - INFO - Checking roles for unax0829: ['@everyone', '👑 Gerente']
+2025-06-24 22:34:36,861 - bot - INFO - Required roles: ['Gerente', 'Subgerente', '👑 Gerente', '👑 Subgerente']
+2025-06-24 22:34:36,861 - bot - INFO - Has required role: True
+2025-06-24 22:38:35,059 - bot - INFO - Received message: "K" from unax0713 in #📬-sugerencias
+2025-06-24 22:38:35,059 - bot - INFO - Checking roles for unax0713: ['@everyone', '🛒 Empleado']
+2025-06-24 22:38:35,059 - bot - INFO - Required roles: ['Gerente', 'Subgerente', '👑 Gerente', '👑 Subgerente']
+2025-06-24 22:38:35,059 - bot - INFO - Has required role: False
+2025-06-24 22:38:35,351 - bot - INFO - Received message: "" from 24/7 vanilla in #📬-sugerencias
+2025-06-24 22:38:45,512 - bot - INFO - Deleted text message from unax0713 in suggestions channel
+2025-06-24 22:39:12,959 - bot - INFO - Received message: "✅ Tu sugerencia ha sido enviada correctamente!" from 24/7 vanilla in #DM
+2025-06-24 22:39:13,147 - bot - INFO - Received message: "" from 24/7 vanilla in #📬-sugerencias
+2025-06-24 22:39:14,000 - bot - INFO - Nueva sugerencia creada por unax0713: a...
+2025-06-24 22:39:49,178 - bot - INFO - Checking roles for unax0713: ['@everyone', '🛒 Empleado']
+2025-06-24 22:39:49,178 - bot - INFO - Required roles: ['Gerente', 'Subgerente', '👑 Gerente', '👑 Subgerente']
+2025-06-24 22:39:49,178 - bot - INFO - Has required role: False
+2025-06-24 22:39:49,412 - bot - INFO - Received message: "❌ No tienes permisos para usar este comando." from 24/7 vanilla in #DM
+2025-06-24 22:42:54,139 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-24 22:42:54,140 - bot - INFO - Loaded message counters: {1386600540389113916: 2}
+2025-06-24 22:42:54,143 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-24 22:42:54,144 - discord.client - INFO - logging in using static token
+2025-06-24 22:42:55,008 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4c906522067d5bc075585c24ac4da74e).
+2025-06-24 22:42:57,014 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-24 22:42:57,014 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-24 22:42:57,014 - bot - INFO - Reminder threshold: 5 messages
+2025-06-24 22:42:57,014 - bot - INFO - Available channels:
+2025-06-24 22:42:57,014 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-24 22:42:57,015 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-24 22:42:57,016 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-24 22:42:57,017 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-24 22:42:57,017 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-24 22:42:57,017 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-24 22:42:57,017 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-24 22:42:57,017 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-24 22:42:57,017 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-24 22:42:57,017 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-24 22:42:57,017 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-24 22:42:57,017 - bot - INFO -   - #transkript (ID: 1386697809213788190)
+2025-06-24 22:42:57,017 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-24 22:42:57,017 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-24 22:42:57,017 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-24 22:42:57,018 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-24 22:42:57,018 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-24 22:42:57,018 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-24 22:42:57,196 - bot - INFO - Sincronizados 4 comandos slash
+2025-06-24 22:42:57,197 - bot - INFO -   - suggest: Sistema de sugerencias
+2025-06-24 22:42:57,198 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-24 22:42:57,198 - bot - INFO -   - aceptar: Acepta la solicitud de un usuario y le asigna un rol
+2025-06-24 22:42:57,198 - bot - INFO -   - denegar: Deniega la solicitud de un usuario y lo banea del servidor
+2025-06-24 22:43:24,195 - bot - INFO - Received message: "Jjs" from unax0829 in #⛑️-ayuda-rápida
+2025-06-24 22:43:25,386 - bot - INFO - Received message: "Hsj" from unax0829 in #⛑️-ayuda-rápida
+2025-06-24 22:43:26,394 - bot - INFO - Received message: "Jsjs" from unax0829 in #⛑️-ayuda-rápida
+2025-06-24 22:43:27,442 - bot - INFO - Received message: "Jsje" from unax0829 in #⛑️-ayuda-rápida
+2025-06-24 22:43:28,445 - bot - INFO - Received message: "Hejw" from unax0829 in #⛑️-ayuda-rápida
+2025-06-24 22:43:29,462 - bot - INFO - Received message: "Hejw" from unax0829 in #⛑️-ayuda-rápida
+2025-06-24 22:43:30,616 - bot - INFO - Received message: "Ueus" from unax0829 in #⛑️-ayuda-rápida
+2025-06-24 22:43:31,530 - bot - INFO - Received message: "Ueus" from unax0829 in #⛑️-ayuda-rápida
+2025-06-24 22:43:32,605 - bot - INFO - Received message: "Ueu" from unax0829 in #⛑️-ayuda-rápida
+2025-06-24 22:43:34,131 - bot - INFO - Received message: "Uej" from unax0829 in #⛑️-ayuda-rápida
+2025-06-24 22:43:34,275 - bot - INFO - Received message: "🆘 __***¿Te hace falta ayuda al momento?***__
+Escribe por aquí y te echamos una mano rápido entre todos. 👇" from 24/7 vanilla in #⛑️-ayuda-rápida
+2025-06-24 22:43:34,330 - bot - INFO - Help message sent in channel ⛑️-ayuda-rápida
+2025-06-24 22:44:36,864 - bot - INFO - Received message: "👋 Ticket Tool ha salido del servidor. ¡Hasta pronto!" from 24/7 vanilla in #🛫-bienvenidas
+2025-06-24 22:44:36,888 - bot - INFO - Goodbye message sent for Ticket Tool (557628352828014614)
+2025-06-24 22:51:07,825 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-24 22:51:07,825 - bot - INFO - Loaded message counters: {1386600540389113916: 2}
+2025-06-24 22:51:07,826 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-24 22:51:07,827 - discord.client - INFO - logging in using static token
+2025-06-24 22:51:08,559 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e57e94fcdfa48251a5ccb4d3f3afc21f).
+2025-06-24 22:51:10,583 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-24 22:51:10,583 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-24 22:51:10,583 - bot - INFO - Reminder threshold: 5 messages
+2025-06-24 22:51:10,583 - bot - INFO - Available channels:
+2025-06-24 22:51:10,583 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-24 22:51:10,583 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-24 22:51:10,583 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-24 22:51:10,583 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-24 22:51:10,584 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-24 22:51:10,584 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-24 22:51:10,584 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-24 22:51:10,584 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-24 22:51:10,584 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-24 22:51:10,584 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-24 22:51:10,584 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-24 22:51:10,584 - bot - INFO -   - #transcript (ID: 1386697809213788190)
+2025-06-24 22:51:10,584 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-24 22:51:10,584 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-24 22:51:10,584 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-24 22:51:10,585 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-24 22:51:10,585 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-24 22:51:10,585 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-24 22:51:10,900 - bot - INFO - Sincronizados 4 comandos slash
+2025-06-24 22:51:10,904 - bot - INFO -   - suggest: Sistema de sugerencias
+2025-06-24 22:51:10,905 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-24 22:51:10,905 - bot - INFO -   - aceptar: Acepta la solicitud de un usuario y le asigna un rol
+2025-06-24 22:51:10,905 - bot - INFO -   - denegar: Deniega la solicitud de un usuario y lo banea del servidor
+2025-06-24 22:53:37,174 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-24 22:53:37,175 - bot - INFO - Loaded message counters: {1386600540389113916: 2}
+2025-06-24 22:53:37,177 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-24 22:53:37,177 - discord.client - INFO - logging in using static token
+2025-06-24 22:53:37,979 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 177b12fad49930ec6c7e95c34dd2ee24).
+2025-06-24 22:53:39,984 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-24 22:53:39,984 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-24 22:53:39,984 - bot - INFO - Reminder threshold: 5 messages
+2025-06-24 22:53:39,985 - bot - INFO - Available channels:
+2025-06-24 22:53:39,985 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-24 22:53:39,985 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-24 22:53:39,985 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-24 22:53:39,985 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-24 22:53:39,985 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-24 22:53:39,985 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-24 22:53:39,985 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-24 22:53:39,986 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-24 22:53:39,986 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-24 22:53:39,986 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-24 22:53:39,986 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-24 22:53:39,986 - bot - INFO -   - #transcript (ID: 1386697809213788190)
+2025-06-24 22:53:39,986 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-24 22:53:39,986 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-24 22:53:39,986 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-24 22:53:39,986 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-24 22:53:39,986 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-24 22:53:39,986 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-24 22:53:40,162 - bot - INFO - Sincronizados 5 comandos slash
+2025-06-24 22:53:40,162 - bot - INFO -   - suggest: Sistema de sugerencias
+2025-06-24 22:53:40,162 - bot - INFO -   - ticket: Sistema de tickets
+2025-06-24 22:53:40,162 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-24 22:53:40,162 - bot - INFO -   - aceptar: Acepta la solicitud de un usuario y le asigna un rol
+2025-06-24 22:53:40,162 - bot - INFO -   - denegar: Deniega la solicitud de un usuario y lo banea del servidor
+2025-06-24 22:54:58,155 - bot - INFO - Received message: "" from 24/7 vanilla in #🎟️-ticket-0001
+2025-06-24 22:54:58,322 - bot - INFO - Received message: "✅ Ticket #0001 creado exitosamente: <#1387204382893932575>" from 24/7 vanilla in #DM
+2025-06-24 22:54:58,349 - bot - INFO - Ticket #0001 created by unax0829 in 🎟️-ticket-0001
+2025-06-24 22:55:32,583 - bot - INFO - Received message: "Hoka" from unax0829 in #🎟️-ticket-0001
+2025-06-24 22:55:32,583 - bot - INFO - Checking roles for unax0829: ['@everyone', '👑 Gerente']
+2025-06-24 22:55:32,583 - bot - INFO - Required roles: ['Gerente', 'Subgerente', '👑 Gerente', '👑 Subgerente']
+2025-06-24 22:55:32,583 - bot - INFO - Has required role: True
+2025-06-24 22:55:51,563 - bot - INFO - Checking roles for unax0829: ['@everyone', '👑 Gerente']
+2025-06-24 22:55:51,563 - bot - INFO - Required roles: ['Gerente', 'Subgerente', '👑 Gerente', '👑 Subgerente']
+2025-06-24 22:55:51,563 - bot - INFO - Has required role: True
+2025-06-24 22:55:51,802 - bot - ERROR - Error generating transcript: 'closed_by'
+2025-06-24 22:55:51,948 - bot - INFO - Received message: "✅ Ticket cerrado. Generando transcripción..." from 24/7 vanilla in #DM
+2025-06-24 22:55:55,278 - bot - INFO - Ticket #0001 closed by unax0829
+2025-06-24 22:58:15,630 - bot - WARNING - Bot disconnected from Discord
+2025-06-24 22:58:15,760 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 177b12fad49930ec6c7e95c34dd2ee24.
+2025-06-24 22:58:15,761 - bot - INFO - Bot resumed connection to Discord
+2025-06-25 07:41:29,047 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-25 07:41:29,048 - bot - INFO - Loaded message counters: {1386600540389113916: 2}
+2025-06-25 07:41:29,050 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-25 07:41:29,050 - discord.client - INFO - logging in using static token
+2025-06-25 07:41:30,031 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d64da6e7943db2ab8a6e3309b825339e).
+2025-06-25 07:41:32,036 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-25 07:41:32,036 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-25 07:41:32,036 - bot - INFO - Reminder threshold: 5 messages
+2025-06-25 07:41:32,036 - bot - INFO - Available channels:
+2025-06-25 07:41:32,037 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-25 07:41:32,037 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-25 07:41:32,037 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-25 07:41:32,037 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-25 07:41:32,037 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-25 07:41:32,037 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-25 07:41:32,037 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-25 07:41:32,037 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-25 07:41:32,037 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-25 07:41:32,038 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-25 07:41:32,038 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-25 07:41:32,038 - bot - INFO -   - #transcript (ID: 1386697809213788190)
+2025-06-25 07:41:32,038 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-25 07:41:32,038 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-25 07:41:32,038 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-25 07:41:32,038 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-25 07:41:32,038 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-25 07:41:32,038 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-25 07:41:32,380 - bot - INFO - Sincronizados 5 comandos slash
+2025-06-25 07:41:32,380 - bot - INFO -   - suggest: Sistema de sugerencias
+2025-06-25 07:41:32,381 - bot - INFO -   - ticket: Sistema de tickets
+2025-06-25 07:41:32,381 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-25 07:41:32,381 - bot - INFO -   - aceptar: Acepta la solicitud de un usuario y le asigna un rol
+2025-06-25 07:41:32,381 - bot - INFO -   - denegar: Deniega la solicitud de un usuario y lo banea del servidor
+2025-06-25 07:41:44,528 - bot - INFO - Received message: "" from 24/7 vanilla in #🎟️-ticket-0001
+2025-06-25 07:41:44,678 - bot - INFO - Received message: "✅ Ticket #0001 creado exitosamente: <#1387336947999178794>" from 24/7 vanilla in #DM
+2025-06-25 07:41:44,697 - bot - INFO - Ticket #0001 created by unax0829 in 🎟️-ticket-0001
+2025-06-25 07:41:52,560 - bot - INFO - Received message: "Hdhdj" from unax0829 in #🎟️-ticket-0001
+2025-06-25 07:41:52,560 - bot - INFO - Checking roles for unax0829: ['@everyone', '👑 Gerente']
+2025-06-25 07:41:52,560 - bot - INFO - Required roles: ['Gerente', 'Subgerente', '👑 Gerente', '👑 Subgerente']
+2025-06-25 07:41:52,560 - bot - INFO - Has required role: True
+2025-06-25 07:42:04,682 - bot - INFO - Checking roles for unax0829: ['@everyone', '👑 Gerente']
+2025-06-25 07:42:04,683 - bot - INFO - Required roles: ['Gerente', 'Subgerente', '👑 Gerente', '👑 Subgerente']
+2025-06-25 07:42:04,683 - bot - INFO - Has required role: True
+2025-06-25 07:42:04,865 - bot - ERROR - Error generating transcript: 'closed_by'
+2025-06-25 07:42:05,022 - bot - INFO - Received message: "✅ Ticket cerrado. Generando transcripción..." from 24/7 vanilla in #DM
+2025-06-25 07:42:08,278 - bot - INFO - Ticket #0001 closed by unax0829
+2025-06-25 09:44:38,325 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-25 09:44:38,326 - bot - INFO - Loaded message counters: {1386600540389113916: 2}
+2025-06-25 09:44:38,328 - __main__ - INFO - Starting Discord reminder bot...
+2025-06-25 09:44:38,328 - discord.client - INFO - logging in using static token
+2025-06-25 09:44:39,015 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1310afeef917ebc58122bf20fbdd58f0).
+2025-06-25 09:44:41,019 - bot - INFO - 24/7 vanilla#9322 has connected to Discord!
+2025-06-25 09:44:41,019 - bot - INFO - Bot is monitoring channel ID: 1386600540389113916
+2025-06-25 09:44:41,019 - bot - INFO - Reminder threshold: 5 messages
+2025-06-25 09:44:41,019 - bot - INFO - Available channels:
+2025-06-25 09:44:41,020 - bot - INFO - Guild: 24/7 vanilla (ID: 1386433739776852188)
+2025-06-25 09:44:41,020 - bot - INFO -   - #🛫-bienvenidas (ID: 1386434424781934724)
+2025-06-25 09:44:41,020 - bot - INFO -   - #✅-aceptados (ID: 1386458737052618772)
+2025-06-25 09:44:41,020 - bot - INFO -   - #❌-denegados (ID: 1386458867168186561)
+2025-06-25 09:44:41,020 - bot - INFO -   - #📢-anuncios (ID: 1386443474399793263)
+2025-06-25 09:44:41,020 - bot - INFO -   - #🎉-eventos (ID: 1386599295376953424)
+2025-06-25 09:44:41,020 - bot - INFO -   - #🗣-general (ID: 1386600214818848771)
+2025-06-25 09:44:41,020 - bot - INFO -   - #📬-sugerencias (ID: 1386600540389113916)
+2025-06-25 09:44:41,020 - bot - INFO -   - #⚠️-strikes (ID: 1386457920904106215)
+2025-06-25 09:44:41,020 - bot - INFO -   - #⛑️-ayuda-rápida (ID: 1386599023816736869)
+2025-06-25 09:44:41,020 - bot - INFO -   - #🎫-ticket (ID: 1386599448632885298)
+2025-06-25 09:44:41,020 - bot - INFO -   - #transcript (ID: 1386697809213788190)
+2025-06-25 09:44:41,021 - bot - INFO -   - #☑️-sugerencias-resultados (ID: 1386735237165351073)
+2025-06-25 09:44:41,021 - bot - INFO - Successfully found suggestion channel: 📬-sugerencias in 24/7 vanilla
+2025-06-25 09:44:41,021 - bot - INFO - Successfully found welcome channel: 🛫-bienvenidas in 24/7 vanilla
+2025-06-25 09:44:41,021 - bot - INFO - Bot is ready to monitor messages and welcome users!
+2025-06-25 09:44:41,021 - bot - WARNING - Note: Welcome/goodbye messages require Server Members Intent to be enabled in Discord Developer Portal
+2025-06-25 09:44:41,021 - bot - INFO - Use "/test bienvenida" and "/test despedida" commands to test welcome functionality
+2025-06-25 09:44:41,315 - bot - INFO - Sincronizados 5 comandos slash
+2025-06-25 09:44:41,315 - bot - INFO -   - suggest: Sistema de sugerencias
+2025-06-25 09:44:41,315 - bot - INFO -   - ticket: Sistema de tickets
+2025-06-25 09:44:41,316 - bot - INFO -   - strike: Gestiona strikes de usuarios
+2025-06-25 09:44:41,316 - bot - INFO -   - aceptar: Acepta la solicitud de un usuario y le asigna un rol
+2025-06-25 09:44:41,316 - bot - INFO -   - denegar: Deniega la solicitud de un usuario y lo banea del servidor

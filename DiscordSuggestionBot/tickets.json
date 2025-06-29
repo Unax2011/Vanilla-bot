@@ -1,0 +1,27 @@
+{
+  "counter": 0,
+  "tickets": {
+    "1387204382893932575": {
+      "number": 1,
+      "creator_id": 1310994218738515982,
+      "creator_name": "Unax",
+      "motivo": "tengo una duda",
+      "created_at": "2025-06-24T22:54:58.045280",
+      "status": "closed",
+      "messages": [],
+      "closed_by": 1310994218738515982,
+      "closed_at": "2025-06-24T22:55:51.802292"
+    },
+    "1387336947999178794": {
+      "number": 1,
+      "creator_id": 1310994218738515982,
+      "creator_name": "Unax",
+      "motivo": "a",
+      "created_at": "2025-06-25T07:41:44.420722",
+      "status": "closed",
+      "messages": [],
+      "closed_by": 1310994218738515982,
+      "closed_at": "2025-06-25T07:42:04.865616"
+    }
+  }
+}
