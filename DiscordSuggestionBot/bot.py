@@ -386,7 +386,8 @@ class ReminderBot(commands.Bot):
                 self.logger.error(f'Error processing message: {e}')
             
             return
-        
+        self.logger.info(f"Mensaje recibido en canal: {message.channel.name} (ID: {message.channel.id})")
+    
         # Restricciones en canales de ticket - solo admins pueden responder
         if hasattr(message.channel, 'name') and message.channel.name.startswith("🎟️-ticket-"):
             if not message.author.bot and not self.has_required_role(message.author):
